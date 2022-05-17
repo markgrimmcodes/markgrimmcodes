@@ -2,4 +2,4 @@
 
 - starting fresh in web development 🚀
 - musician 🎸
-- always looking for food recommandations 🍕🍔🥗
+- always looking for food recommendations 🍕🍔🥗
